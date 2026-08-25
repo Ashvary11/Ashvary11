@@ -34,22 +34,20 @@
 
 ## 👨‍💻 **About Me**
 
-I'm a **Full Stack Developer** who works across the entire layer — intuitive UIs, clean REST APIs, and databases that don't fall apart under pressure. I care about each layer being well-built, not just functional.
+I'm a **Full Stack Developer** specializing in **MERN, Next.js, TypeScript, and AI-powered applications**. I enjoy building applications end-to-end — from responsive interfaces and REST APIs to authentication, databases, caching, real-time communication, and deployment.
 
-Through professional work and real projects, I've developed hands-on understanding of things that actually matter in production: **JWT, cookies, Google OAuth, and role-based access control** for auth; **Redis caching** and **rate-limited APIs** for performance; **Socket.io** for real-time features; and **automated data pipelines** that replaced repetitive manual work.
+My development experience includes **JWT authentication, cookies, Google OAuth, role-based access control, Redis caching, rate limiting, Socket.io, background jobs with BullMQ, and API integrations**.
 
-On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse proxy + load balancing), and **Docker** (containerization basics) — locally set up and stress-tested, including horizontal and vertical scaling experiments to see where things break and *why*. That last part tends to stick the most.
+I've also been exploring **Generative AI and RAG systems**, working with **Google Gemini, LangChain, LangGraph, embeddings, and Qdrant** to build applications that can understand and retrieve information from user-provided documents.
 
-<div align="left">
+On the infrastructure side, I'm comfortable working with **Linux, Nginx, Git, and Vercel/Netlify**.
 
-- 🌱 **Currently Exploring**: System design, scalability patterns & TypeScript at depth
-- 🤝 **Open to**: Roles and collaborations where I can contribute *and* keep growing
-- 🎯 **2026 Goals**:
-  - Step into **technical leadership** in a product team
-  - Contribute meaningfully to **Open Source**
-  - Build something developers actually use daily
+I focus on writing maintainable code, understanding how systems work under the hood, and continuously improving my knowledge of **system design, scalability, and modern full-stack development**.
 
-</div>
+- 🚀 **Specializing in:** MERN Stack, Next.js, TypeScript & AI/RAG
+- 🧠 **Currently Exploring:** System Design, scalable architectures & advanced TypeScript
+- 🔨 **Building:** AI-powered applications and full-stack products
+- 🤝 **Open to:** Full-time opportunities, freelance projects & collaborations
 
 ---
 
@@ -57,11 +55,12 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 
 | Project | Description | Tech Stack | Demo | 🎬 Video |
 |---------|-------------|------------|------|----------|
+| 🤖 **DocMind-AI** | AI document assistant that lets users upload PDF, DOCX and TXT files and ask questions using Retrieval-Augmented Generation (RAG) | Next.js, TypeScript, Gemini, LangChain, Qdrant | [Try It](https://doc-mind-alpha.vercel.app/) | |
 | 🌀 **Tripzy AI** | AI-powered travel assistant with smart itinerary planning, destination recommendations, and personalized travel experiences | Next.js, MongoDB, Gemini, ShadCn | [Live Demo](https://tripzy-ai.netlify.app/) | [Watch](https://youtu.be/rDvS5ZGAVeg) |
 | 🛒 **E-Commerce App** | Feature-rich platform with auth, cart, payments & mailing | MERN, Redux-Toolkit, Stripe | [Explore](https://ecom-app-by-ashvary.netlify.app/) | [Watch](https://youtu.be/m-sjNPMmv5M) |
 | 🚌 **Red Bus** | Bus ticket booking with seat selection & payments | MERN Stack | [Check Out](https://red-bus-by-ashvary.netlify.app/) | [Watch](https://youtu.be/HDNleQAdPmo) |
-| 📇 **FlashCard Generator** | Create & manage flashcards for learning | React, TailwindCSS | [Try It](https://flashcardgenerator4.netlify.app/)   
-| 💬 **ChatBot** | Real-Time Chatbot & Support System | React, Socket.io, Express | | [Watch](https://youtu.be/a_NgU7Rc3bs)   
+| 📇 **FlashCard Generator** | Create & manage flashcards for learning | React, TailwindCSS | [Try It](https://flashcardgenerator4.netlify.app/)    |
+| 💬 **ChatBot** | Real-Time Chatbot & Support System | React, Socket.io, Express | | [Watch](https://youtu.be/a_NgU7Rc3bs)   | 
 ---
 
 ## 🛠️ **Tech Stack**
@@ -86,8 +85,9 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D90000?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -106,6 +106,19 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 
 </div>
 
+### 🤖 AI Concepts
+
+<div align="left">
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-D22F27?style=for-the-badge&logo=qdrant&logoColor=white)
+
+</div>
+  
+`RAG` • `AI Agents`
+ 
 ---
 
 ## 📚 **Mini Projects**
@@ -134,8 +147,12 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 ---
 
 ## 📈 **Contribution Activity**
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvary11&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=0078D4&line=0078D4&point=61DAFB&area=true&areaOpacity=0.3" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvary11&theme=github-dark&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
